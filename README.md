@@ -23,6 +23,7 @@ A collection of awesome links, tutorials, and resources on HL7 version 2.
 
 - [NIST HL7 V2 Resource Portal](https://hl7v2tools.nist.gov/)
 - [HL7 Inspector Neo](https://www.hl7inspector.com/)
+- [HL7 Tools for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=RobHolme.hl7tools)
 
 ## HL7v2 software libraries
 
