@@ -16,6 +16,7 @@ A collection of awesome links, tutorials, and resources on HL7 version 2.
 
 - [HL7 Version 2 Product Suite](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185)
 - [Frank Oemig's HTML version of the specification](http://www.hl7.eu/HL7v2x/hl7contents.htm)
+- [HL7 version 2.6 specification (vico.org)](https://www.vico.org/HL7_V2_6/HL7%20Messaging%20Version%202.6/V2_6_Index.html)
 - [Caristix HL7-Definition V2](https://hl7-definition.caristix.com/v2/)
 - [HL7 Version 2 to FHIR](https://build.fhir.org/ig/HL7/v2-to-fhir/)
 
